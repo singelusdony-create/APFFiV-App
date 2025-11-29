@@ -1,46 +1,35 @@
-# AletOkap
-À Cap-Haïtien, la sécurité reste encore meilleure qu’à Port-au-Prince, mais les citoyens manquent d’un outil fiable pour partager et recevoir des informations en temps réel sur les incidents autour d’eux. AlètOkap apporte une solution en permettant de signaler rapidement un incident avec localisation et photo/vidéo, d’alerter la communauté par notifications, et de visualiser les zones à risque sur une carte interactive, favorisant ainsi la vigilance et la prévention collective.
+# APFFiV-App 
+Haiti, un pays oú reigne la violence de toute sorte (sexuelle, physique, morale et autre). Les femmes et filles sont souvent les principales victimes. Les relevées statistiques montrent que pendant ces 10 dernières années que les cas violes ne cessent d’augmenter et ce, à un rhytme exponentiel. Les victimes vivant avec les traumatismes le fait qu’elles ont toujours du mal à trouver de l’assistance d’ordre psychologique.En effet, touché par cette situation, une équipe de leader ont decidé de creer une application dennomée “APFFiV-App”, repondant à ce manque d’assistance.
 
 # Membres du groupe
-- Esther Love Prisnie Desravines
-- Exantus Jn-Noel
-- Stella Bejhina Metellus
+1-Dadeline LOUIS
+2-Frantz-Cesca JAQUES
+3-Rikenson SAINT-JUSTE
+4-Jean Dony SINGELUS
 
 # User Stories
 
 # Must have
 
-- [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application
-- [x] L’utilisateur peut signaler un incident de façon anonyme(vol, agression, cambriolage, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
-- [x] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
-- [x] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
-- [x] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
-- [x] L’utilisateur peut accéder à une page contenant les informations importantes (numéros de police, hôpital, ambulance, protection civile, etc.).
+- [x] L'utilisateur peut créer un compte en fonction de l'évolution de la situation.
+- [x] L’utilisateur peut signaler un incident de façon anonyme(viol, agression, attouchemernt, etc.) en ajoutant la date et l'heure, une description courte, une photo/vidéo, et       la localisation.
+- [x] L'utilisateur peut placer un appel, ecrire un message et laisser de l'audio
+- [x] L’utilisateur peut accéder à une page contenant les informations importantes (numéros de police, d'avocat, d'hôpital, d'ambulance, de protection civile, etc.).
 - [x] L’utilisateur peut lire une section conseils de sécurité pour apprendre à réduire les risques.
 - [x] L’utilisateur peut lire une section decrivant l'application
 - [x] L'utilisateur peut se deconnecter de l'application
-- [ ] L'utilisateur peut supprimer son compte
+- [x] L'utilisateur peut supprimer son compte
 
 # Maybe
-
-- [x] L’utilisateur peut confirmer une alerte signalée par un autre citoyen.
-- [ ] L’utilisateur peut modifier ou supprimer ses propres alertes.
-- [ ] L’utilisateur peut filtrer les alertes par type d’incident.
 - [x] L’utilisateur peut avoir un profil personnel.
 - [x] L’utilisateur peut modifier son profil personnel(Photo, Username, Email, Password)
-- [ ] L'utilisateur peut voir l’historique de ses alertes envoyées.
+- [x] L'utilisateur peut voir l’historique de ses conversations.
 
 # Would be nice to have
 - [ ] L'utilisateur peut changer la langue(Creole --> Francais; Francais --> Creole).
-- [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark).
-- [ ] L’utilisateur peut partager une alerte directement via WhatsApp, Facebook.
-- [ ] L'utilisateur peut planifier un itinéraire sur la carte pour suivre le chemin le plus sécurisé.
-- [ ] L'utilisateur peut avoir une liste de contact d'urgence.
-- [ ] L'utilisateur peut activer un bouton SOS qui envoie une alerte instantanée avec sa localisation a ses contacts d'urgence.
 - [ ] L’application peut générer des statistiques de sécurité (par ex. nombre d’incidents signalés par semaine).
 
 # Prototype Figma
 https://www.figma.com/design/Y79iABrecdA5wz6x3zB92C/bbdf-group?node-id=114-61&t=mzKYMdQLZ8e0QiiE-1
 
-<img src="Android Compact - 8.png" width=200>  <img src="Sign up.png" width=200>  <img src="Home.png" width=200>  <img src="New Alert.png" width=200>  <img src="Map.png" width=200>  <img src="Liste Alerte.png" width=200>  <img src="Manifestation.png" width=200>  <img src="menu.png" width=200>  <img src="Profile.png" width=200>
-<img src="menu sombre.png" width=200>
+<img src="iPhone 16 Pro - 1.png" width=200>  <img src="iPhone 16 Pro - 2.png" width=200>  <img src="iPhone 16 Pro - 3.png" width=200>  <img src="iPhone 16 Pro - 4.png" width=200>  <img src="iPhone 16 Pro - 5.png" width=200>  <img src="iPhone 16 Pro - 6.png" width=200>  <img src="iPhone 16 Pro - 7.png" width=200>  
